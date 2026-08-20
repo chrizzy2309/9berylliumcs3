@@ -1,4 +1,6 @@
 # Hello! My name is Chris Deniel B. Baldoza ( '^' ).
-# I am from 9-Beryllium.
-# My email is cdbbaloza@brc.pshs.edu.ph
-# And I like playing Genshin Impact.
+## I am from 9-Beryllium.
+## My email is cdbbaloza@brc.pshs.edu.ph
+## And I like playing Genshin Impact.
+# Quarter 1
+[Computational Thinking Excercise](https://github.com/chrizzy2309/9berylliumcs3.git)
