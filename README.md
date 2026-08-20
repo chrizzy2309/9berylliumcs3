@@ -3,4 +3,4 @@
 ## My email is cdbbaloza@brc.pshs.edu.ph
 ## And I like playing Genshin Impact.
 # [Quarter 1](https://github.com/chrizzy2309/9berylliumcs3/tree/q1)
-## [Computational Thinking Excercise](https://github.com/chrizzy2309/9berylliumcs3/tree/ctskillsBerylliumBaldoza.md)
+## [Computational Thinking Excercise](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ctskillsBerylliumBaldoza.md)
