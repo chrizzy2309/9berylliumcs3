@@ -1,5 +1,6 @@
 # SG4 - Understanding Classes and Objects
-## <img width="1124" height="117" alt="6a96564b1ef8b" src="https://github.com/user-attachments/assets/a11e8629-26e8-4fd9-8dbc-63998839a07e" />
+## <img width="800" height="800" alt="hd-official-genshin-impact-game-logo-png-7017516947886310y2wszyqsr" src="https://github.com/user-attachments/assets/4cbf5a86-7769-4dd8-85ba-6dd4eb7ae678" />
+
 
 ## Class Description
 ## Properties
