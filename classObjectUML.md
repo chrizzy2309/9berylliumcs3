@@ -1,5 +1,6 @@
 # SG4 - Understanding Classes and Objects
-## Class Name
+## <img width="1124" height="117" alt="6a96564b1ef8b" src="https://github.com/user-attachments/assets/a11e8629-26e8-4fd9-8dbc-63998839a07e" />
+
 ## Class Description
 ## Properties
 | Property | Data Type | Description |
