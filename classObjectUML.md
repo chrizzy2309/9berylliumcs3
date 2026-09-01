@@ -22,7 +22,7 @@
 | SHOW | Show List and Information Of Character |
 ---
 ## **Class Diagram**
-![Class Diagram](<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/b9a4a620-0f50-42a0-9ae9-e227ae724679" />)
+(<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/b9a4a620-0f50-42a0-9ae9-e227ae724679" />)
 ## **Design Explanation**
 ### Why did you choose this class?
 ### Which property is the most important? Why?
