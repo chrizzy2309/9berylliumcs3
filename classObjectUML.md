@@ -18,7 +18,8 @@
 |---|---|
 | ADD | Adds Character |
 | REMOVE | Remove Character |
-| | |
+| EDIT | Edit Information Of Character |
+| SHOW | Show List and Information Of Character |
 ---
 ## **Class Diagram**
 ![Class Diagram](images/classDiagram.png)
