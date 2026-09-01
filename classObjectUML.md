@@ -27,6 +27,8 @@
 
 ## **Design Explanation**
 ### Why did you choose this class?
-### - I chose this class because genshin has become my favorite game to play ever since I started playing and I wanted to include it in this activity
+### - I chose this class because genshin has become my favorite game to play ever since I started playing and I wanted to include it in this activity.
 ### Which property is the most important? Why?
+### - For me the most important property is the name because it is the foundation of organizing the different characters. Without names it is harder to organize the characters because some have the same weapon type, nation, and element.
 ### Which method is the most useful? Why?
+### - The most useful method is showing because without showing the items in the list no one can see the errors and the characters information.
