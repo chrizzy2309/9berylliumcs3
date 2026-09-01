@@ -1,6 +1,7 @@
 # SG4 - Understanding Classes and Objects
 ---
-## <img width="1739" height="105" alt="6a9657ec3491a" src="https://github.com/user-attachments/assets/968a604c-8bdf-4e2b-8e28-0db638655bbd" />
+## <img width="1039" height="47" alt="6a965873c8e51" src="https://github.com/user-attachments/assets/27df874e-1cdb-4721-bdb8-ace651798d50" />
+
 ---
 ## Class Description
 ### -
