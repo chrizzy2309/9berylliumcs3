@@ -22,8 +22,9 @@
 | SHOW | Show List and Information Of Character |
 ---
 ## **Class Diagram**
-(<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/b9a4a620-0f50-42a0-9ae9-e227ae724679" />)
+<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/865f8483-e4f3-45e9-80c6-adcfefdaf860" />
 ## **Design Explanation**
 ### Why did you choose this class?
+### - I chose this class because genshin has become my favorite game to play ever since I started playing and I wanted to include it in this activity
 ### Which property is the most important? Why?
 ### Which method is the most useful? Why?
