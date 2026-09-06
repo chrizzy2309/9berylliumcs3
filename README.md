@@ -9,8 +9,8 @@
 
 ## [Computational Thinking Excercise](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ctskillsBerylliumBaldoza.md)
 ## [Chinese Zodiac](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/zodiacBerylliumBaldoza.py) 
-### [Valid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ValidInput.md)
-### [Invalid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/InvalidInput.md)
+### [ - Valid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ValidInput.md)
+### [ - Invalid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/InvalidInput.md)
 ## [OOP CONCEPT](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ila_oop.md)
 ## [OOPAct](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classObjectUML.md)
 ## [OOPAct Part 2]()
