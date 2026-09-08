@@ -23,7 +23,7 @@ No major changes were needed from my original design.
 ---
 
 ## Updated UML Class Diagram
-![Class Diagram]()
+[Class Diagram]()
 
 ---
 
@@ -39,7 +39,7 @@ No major changes were needed from my original design.
 ---
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+[Object Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/objectdiagram.md)
 
 ---
 
