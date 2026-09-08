@@ -15,10 +15,10 @@ No major changes were needed from my original design.
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| Name | String | Public | Because there is no direct danger from sharing this info publicly |
-| Nation/Area | String | Private | |
-| Elemental Vision | String | Public | |
-| Weapon | String | Private | |
+| Name | String | Public | Because there is no direct danger from sharing this info publicly. |
+| Nation/Area | String | Private | Because they can easily identified if the nation they live in said. |
+| Elemental Vision | String | Public | Because the elements of teyvat are equal with each other the thing that factors in is the experience of the person. |
+| Weapon | String | Public | Because the weapons are basically useless against fights with other people visions are more commonly used against other vision holders. |
 
 ---
 
