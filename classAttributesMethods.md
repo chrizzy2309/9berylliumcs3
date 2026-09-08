@@ -34,7 +34,7 @@ No major changes were needed from my original design.
 ---
 
 ## Test Run
-![Test Run]([images/classTestRun.png](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/testrun.md))
+[Test Run](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/testrun.md)
 
 ---
 
