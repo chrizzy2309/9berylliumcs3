@@ -23,7 +23,7 @@ No major changes were needed from my original design.
 ---
 
 ## Updated UML Class Diagram
-[Class Diagram]()
+[Class Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/UpdatedUMLClassDiagram.md)
 
 ---
 
@@ -45,13 +45,13 @@ No major changes were needed from my original design.
 
 ## Analysis
 ### Why did you make your chosen attribute private?
-#### - 
+#### - I made Nation private because it is sensitive information about the character.
 
 ### Which method changes the state of your object?
-#### -
+#### - The method that changes the state of object is edit method because it changes the information of the object
 
 ### How did your two objects demonstrate that instances are independent?
-####
+#### - The two objects are independent because when I changed the weapon used by character79 the weapon used by character110 didn't change.
 
 ### What is the difference between your class diagram and your object diagram?
-####
+#### - The class diagram is a blueprint while the object diagram has values.
