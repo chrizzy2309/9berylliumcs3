@@ -23,13 +23,12 @@ No major changes were needed from my original design.
 ---
 
 ## Updated UML Class Diagram
-![Class Diagram](<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/f908ccf1-a67c-4133-a1ec-d49f25135a01" />)
+![Class Diagram]()
 
 ---
 
 ## Python Implementation
 
-<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/f908ccf1-a67c-4133-a1ec-d49f25135a01" />
 [View Python Source](classImplementation.py)
 
 ---
@@ -47,8 +46,12 @@ No major changes were needed from my original design.
 ## Analysis
 ### Why did you make your chosen attribute private?
 #### - 
+
 ### Which method changes the state of your object?
+#### -
 
 ### How did your two objects demonstrate that instances are independent?
+####
 
 ### What is the difference between your class diagram and your object diagram?
+####
