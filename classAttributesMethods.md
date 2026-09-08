@@ -23,7 +23,7 @@ No major changes were needed from my original design.
 ---
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](<img width="1294" height="2000" alt="Baldoza_Floating In A Pool" src="https://github.com/user-attachments/assets/07ca9e56-df6a-4ab4-a1dd-3c864c6907d0" />)
 
 ---
 
