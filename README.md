@@ -11,8 +11,7 @@
 
 ## Chinese Zodiac
 ### [View Chinese Zodiac](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/zodiacBerylliumBaldoza.py) 
-### [View Valid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ValidInput.md)
-### [View Invalid Input](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/InvalidInput.md)
+### [Test Inputs](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/chineseZodiac_test_inputs.md)
 
 ## OOP Concept
 ### [View OOP Concept](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ila_oop.md)
