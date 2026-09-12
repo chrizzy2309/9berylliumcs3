@@ -23,7 +23,7 @@ No major changes were needed from my original design.
 ---
 
 ## Updated UML Class Diagram
-[Class Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/UpdatedUMLClassDiagram.md)
+[Class Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/UpdatedUMLClassDiagram.md)
 
 ---
 
@@ -34,12 +34,12 @@ No major changes were needed from my original design.
 ---
 
 ## Test Run
-[Test Run](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/testrun.md)
+[Test Run](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/testrun.md)
 
 ---
 
 ## Object Diagram
-[Object Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/objectdiagram.md)
+[Object Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/objectDiagram.md)
 
 ---
 
