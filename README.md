@@ -17,7 +17,6 @@
 ### [View OOP Concept](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/ila_oop.md)
 
 ## OOPAct
-### [View Class Object UML](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classObjectUML.md)
-### [Class Implementation](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classImplementation.py)
-###  [View Class Attributes Methods](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classAttributesMethods.md)
+### [OOPAct Part 1](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classObjectUML.md)
+### [OOPAct Part 2](https://github.com/chrizzy2309/9berylliumcs3/tree/q1/OOPAct2)
 ### [OOPAct Part 3](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/OOPAct3.md)
