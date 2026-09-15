@@ -17,13 +17,15 @@
 
 ## New Related Class
 ### Class: Nation
-### Description:
+### Description: The NATION have character and those characters have  different information like their name, the weapon type they use, and the elemental vision they have.
 
 ---
 
 ## Association
 ### Relationship:
-Explanation:
+## Nations HAVE Characters
+
+### Explanation: The class Nation is composed of characters which are individuals the class just collects the info and puts it into different nations. Which makes the information easier to show, find, and edit.
 
 ---
 
