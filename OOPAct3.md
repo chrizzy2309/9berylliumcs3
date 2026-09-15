@@ -4,7 +4,7 @@
 
 ## Previous Work
 ### [Part I - Classes and Objects](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classObjectUML.md)
-### [Part II - Class Attributes and Methods](classObjectUML.md(https://github.com/chrizzy2309/9berylliumcs3/tree/q1/OOPAct2)
+### [Part II - Class Attributes and Methods](https://github.com/chrizzy2309/9berylliumcs3/tree/q1/OOPAct2)
 
 ---
 
