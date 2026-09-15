@@ -31,8 +31,9 @@
 
 ## Multiplicity
 
-Multiplicity:
-Explanation:
+### Multiplicity: NATION ───────── *Character
+
+### Explanation: Because nations contain many characters and aren't limited to one. And the nation class can store different characters. That allows the class to organize the characters under a nation.
 
 ---
 
