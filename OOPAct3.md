@@ -11,12 +11,12 @@
 ## Existing Class
 ### Class: GENSHIN IMPACT CHARACTER LIST EDITOR
 
-### Description: The class is a list that you can edit of the character in genshin impact. 
+### Description: The class is a editable list of characters that you add in genshin impact. The remaining attributes that are still useful are Name,
 
 ---
 
 ## New Related Class
-### Class:
+### Class: Nation
 ### Description:
 
 ---
