@@ -11,7 +11,7 @@
 ## Existing Class
 ### Class: GENSHIN IMPACT CHARACTER LIST EDITOR
 
-### Description: 
+### Description: The class is a list that you can edit of the character in genshin impact. 
 
 ---
 
