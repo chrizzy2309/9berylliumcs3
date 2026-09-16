@@ -48,12 +48,12 @@
 ---
 
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/relationshipTestRun.md)
 
 ---
 
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/ObjectRelationshipDiagram.md)
 
 ---
 
