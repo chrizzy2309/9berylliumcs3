@@ -38,7 +38,7 @@
 ---
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/classRelationshipDiagram.md)
 
 ---
 
