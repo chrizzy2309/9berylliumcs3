@@ -11,7 +11,7 @@
 ## Existing Class
 ### Class: GENSHIN IMPACT CHARACTER LIST EDITOR
 
-### Description: The class is a editable list of characters that you add in genshin impact. The remaining attributes that are still useful are Name,
+### Description: The class is a editable list of characters that you add in genshin impact. The remaining attributes that are still useful are Name, elemental vision, and  weapon type. While all methods from the previous activities are still used these methods are ADD(), REMOVE(), EDIT(), and SHOW().
 
 ---
 
