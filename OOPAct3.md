@@ -59,7 +59,17 @@
 
 ## Analysis
 ### What is the association between your two classes?
+### - The association between my two classes are Nations Have characters.
+
 ### What multiplicity did you choose and why?
+### - The multiplicity that I chose is one is too many because a nation contains many characters and the different characters have different 
+
 ### How did you implement the relationship in Python?
+### - I created a list that stores the characters info then created an add function to add the characters in the list to create an established connection.
+
 ### Why did you store an object reference instead of copying its data?
+### - I store an object reference because it can enable shared data and a change made at one point immediately updates the data for every other part which uses the same object.
+
+
 ### If your relationship uses many, why is a list appropriate?
+### - A list is appropriate because it stores the information so that it's organized and makes finding info easier.
