@@ -20,3 +20,4 @@
 ### [OOPAct Part 1](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/classObjectUML.md)
 ### [OOPAct Part 2](https://github.com/chrizzy2309/9berylliumcs3/tree/q1/OOPAct2)
 ### [OOPAct Part 3](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/OOPAct3.md)
+### [OOPAct Part 4](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/advancedRelationships.md)
