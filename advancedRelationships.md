@@ -10,7 +10,12 @@
 ---
 
 ## Existing System Description:
-### - 
+### 1. What classes currently exist in your system?
+### Class 1: GENSHIN IMPACT CHARACTERS
+### Class 2: NATION
+
+### 2. What problem or limitation exists in your current design?
+### - The limitation of the current design 
 
 ---
 
