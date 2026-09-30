@@ -49,7 +49,7 @@
 --- 
 
 ## Test Run
-![Test](images/advancedTestRun.png)
+[Test](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/TestRunAR.md)
 
 ---
 
