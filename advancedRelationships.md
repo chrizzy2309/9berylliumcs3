@@ -27,7 +27,7 @@
 ---
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+[Inheritance](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/inheritanceDiagram.md)
 
 ---
 
