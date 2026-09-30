@@ -20,9 +20,9 @@
 ---
 
 ## Inheritance Relationship
-### Parent: GENSHIN IMPACT CHARACTERS
-### Child: ELEMENTAL VISION
-### Explanation: 
+### Parent: GenshinImpactCharacters
+### Child: MODEL TYPE
+### Explanation: ModelType is a child class of GenshinImpactCharacters because it represents a  subset that inherits common traits while introducin new specific behaviors and attributes.
 
 ---
 
@@ -32,7 +32,8 @@
 ---
 
 ## Composition/Aggregation
-### Relationship:
+### Relationship: Aggregation
+
 ### Explanation:
 
 --- 
