@@ -15,14 +15,14 @@
 ### Class 2: NATION
 
 ### 2. What problem or limitation exists in your current design?
-### - The limitation of the current design 
+### &nbsp;- The limitation of the current design is that it can let incorrect info pass by without confirming if the info's right. For example Zibai's info is inputed she is a a geo vision wielder but in the info inputted her vision is shown to be pyro. The system didn't double check it just let it slide.
 
 ---
 
 ## Inheritance Relationship
-### Parent:
-### Child:
-### Explanation:
+### Parent: GENSHIN IMPACT CHARACTERS
+### Child: ELEMENTAL VISION
+### Explanation: 
 
 ---
 
@@ -58,3 +58,6 @@
 
 ## Reflection
 ### Answers:
+
+
+### LLM USED: Gemini Built in Google Search
