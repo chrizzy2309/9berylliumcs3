@@ -34,7 +34,7 @@
 ## Composition/Aggregation
 ### Relationship: Aggregation
 
-### Explanation: 
+### Explanation: The relationship between them is treated as aggregation because it has different lifecycle, if the character is removed the ModelType information is still retained  and is shared across many other characters. 
 
 --- 
 
