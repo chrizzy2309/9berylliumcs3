@@ -61,9 +61,18 @@
 ## Reflection
 ### Answers:
 ### 1. Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class.
-### 2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
-### 3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects.
-### 4. What is the difference between Association from Part III and the advanced relationship you implemented?
-### 5. How does your design follow the DRY principle?
+### - I picked aggregation because a model type is a special asset component that can exist independently of a specific character. A model type is a type of character asset because it defines the 3D visual geometry and rendering data assigned to represent that character. 
 
+### 2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
+### - Inheritance reduces the code by allowing to inherit and retain the past code and reuse it without revision. All of the attributes were reused and one was added model_type. All the methods were inherited with no additions.
+
+### 3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects.
+### It's aggregation because model type is a independent asset if the character is deleted the information is still retained.
+
+### 4. What is the difference between Association from Part III and the advanced relationship you implemented?
+### The difference between the two is in part three the information from the parent class is retained.
+
+### 5. How does your design follow the DRY principle?
+### My design follows the DRY principle because instead repeatedly changing the code for different situations it inherits the information is retained to avoid repetitions.
+ 
 ### LLM USED: Gemini Built in Google Search
