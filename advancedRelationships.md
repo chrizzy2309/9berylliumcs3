@@ -39,7 +39,7 @@
 --- 
 
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/AdvanceUMLDiagram.md)
 
 ---
 
