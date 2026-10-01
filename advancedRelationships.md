@@ -54,7 +54,7 @@
 ---
 
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](https://github.com/chrizzy2309/9berylliumcs3/blob/q1/images/Screenshot%202026-10-01%20102212.png)
 
 ---
 
