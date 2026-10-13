@@ -25,4 +25,5 @@
 # Quarter 2
 ---
 ## SG8 Encapsulation Activity 3
-### [View Computational Thinking Excercise]()
+### [View SG8 ACTIVIVTY 3](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg8_encapsulation.py)
+### [View SG8 Code Activity](
