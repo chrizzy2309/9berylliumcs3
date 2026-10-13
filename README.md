@@ -26,4 +26,4 @@
 ---
 ## SG8 Encapsulation Activity 3
 ### [View SG8 ACTIVIVTY 3](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg8_encapsulation.py)
-### [View SG8 Code Activity](
+### [View SG8 Code Activity](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/SG8%20CODE%20OUTPUT.png)
