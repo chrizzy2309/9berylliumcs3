@@ -29,7 +29,7 @@ class Book(Publication): # creates a class called Book that inherits from Public
 
     def set_number_of_pages(self, number_of_pages):
         self.number_of_pages = number_of_pages
-        if number_of_pages <= 0: # checks if the number of pages is less than or equal to 0, and if so, prints an error message
+        if number_of_pages <= 0:  # checks if the issue number is less than or equal to 0, and if it is it prints an error message
             print("Number of pages must be a positive integer.")
 
     def display_info(self):
@@ -44,12 +44,12 @@ class Magazine(Publication):# creates a class called Magazine that inherits from
         super().__init__(title, author) # super is used to call the constructor of the parent class (Publication) to initialize the title and author attributes
         self.issue_number = issue_number 
 
-    def get_issue_number(self): # creates a method that returns the issue_number attribute of the Magazine class
+    def get_issue_number(self): # creates a method that returns the issue_number attribute of the Magazine object
         return self.issue_number
 
     def set_issue_number(self, issue_number): # creates a method that sets the issue_number attribute of the Magazine class
         self.issue_number = issue_number
-        if issue_number <= 0: # checks if the issue number is less than or equal to 0, and if so, prints an error message
+        if issue_number <= 0: # checks if the issue number is less than or equal to 0, and if it is it prints an error message
             print("Issue number must be a positive integer.")
 
     def display_info(self):
