@@ -27,5 +27,14 @@
 ## SG8 Encapsulation Activity 3
 ### [View SG8 Activity 3](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg8_encapsulation.py)
 ### [View SG8 Code Output](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/SG8%20CODE%20OUTPUT.png)
+
+
+## SG9 Inheritance Activity 
+
 ### [View SG9 FA 1](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg9inheritance.py)
 ### [View SG9 Code Output](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/SG%209%20CODE%20OUTPU.md)
+
+
+## SG10 Overriding Activity 1
+### [View SG10 Activity 1](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg10overriding.py)
+### [View SG10 Code Output](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/Output/SG%2010%20OVERRIDING%20OUTPUT.md)
