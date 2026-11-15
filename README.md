@@ -42,4 +42,4 @@
 ## SG11 Polymorphism Activity 1
 ### [View SG11 Activity 1](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg11_polymorphism_act1.py)
 ### [View SG11 Code Output](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/Output/SG%2011%20CODE%20OUTPUT.md)
-### [View SG11 Activity 2](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg11_polymorphism_act2.md)
+### [View SG11 Activity 2](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg11_polymorphism%20_act2.md)
