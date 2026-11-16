@@ -4,6 +4,7 @@
 ### —-------------
 
 ## Instruction: Do what is asked in each item below:
+
 ### 1. Answer the following questions:*
 ###  a. What is duck typing, as explained in the video?
 ###   - It is a way to achieve polymorphism in Python without requiring objects to belong to the same inheritance hierarchy. In the video it was explained by "If it looks  like a duck and quacks like a duck it must be a duck" which means that an object can be used as a particular type if it provides attributes and methods that the code needs. In short focuses on what an object can do, rater than on the object's exact class.
@@ -27,3 +28,4 @@
 ### —-------------
 
 ### 3. How does the code in 2.2 demonstrate polymorphism?
+### - This code shows polymorphism because the different classes have same method starting with the same name but the results that is returned in the code is different for each class.
