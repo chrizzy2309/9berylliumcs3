@@ -4,7 +4,7 @@
 ### —-------------
 
 ## Instruction: Do what is asked in each item below:
-### __1. Answer the following questions:__
+### **1. Answer the following questions:**
 ###  a. What is duck typing, as explained in the video?
 ###   - It is a way to achieve polymorphism in Python without requiring objects to belong to the same inheritance hierarchy. In the video it was explained by "If it looks  like a duck and quacks like a duck it must be a duck" which means that an object can be used as a particular type if it provides attributes and methods that the code needs. In short focuses on what an object can do, rater than on the object's exact class.
 ###  b. What did the Car class need to have so it could work inside the same loop as Dog and Cat, even if it does not inherit from the Animal class?
