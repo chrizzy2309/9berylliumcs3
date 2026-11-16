@@ -1,7 +1,7 @@
 ## ACTIVITY 2:
 ### This activity will help you test your understanding of duck-typing: polymorphism without inheritance.
 
-### ---
+---
 
 ## Instruction: Do what is asked in each item below:
 
@@ -12,7 +12,7 @@
 ###  b. What did the Car class need to have so it could work inside the same loop as Dog and Cat, even if it does not inherit from the Animal class?
 ###   -   The Car class needed to have the attribute alive and the method speak to work because the loop does not care about the object where class it belongs. It only cares that the car satisfies the required interface.
 
-### ---
+---
 
 ### 2. Create the Python code that:
 
@@ -26,7 +26,7 @@
 ### d. Calls the start_trip() method for each object.
 ### [View SG11 Activity 2 Code](https://github.com/chrizzy2309/9berylliumcs3/blob/q2/sg11_polymorphism_act2_code.py)
 
-### ---
+ ---
 
 ### 3. How does the code in 2.2 demonstrate polymorphism?
 ### - This code shows polymorphism because the different classes have same method starting with the same name but the results that is returned in the code is different for each class.
